@@ -1,0 +1,14 @@
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.exe
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.deps.json
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.runtimeconfig.json
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.runtimeconfig.dev.json
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.dll
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\bin\Debug\netcoreapp3.1\String, StringBuilder, Array.pdb
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.csproj.AssemblyReference.cache
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.AssemblyInfoInputs.cache
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.AssemblyInfo.cs
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.csproj.CoreCompileInputs.cache
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.dll
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.pdb
+C:\Users\Elgun\Desktop\String, StringBuilder, Array\String, StringBuilder, Array\obj\Debug\netcoreapp3.1\String, StringBuilder, Array.genruntimeconfig.cache
